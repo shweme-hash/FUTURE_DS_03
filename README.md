@@ -47,10 +47,7 @@ Subscription rates are relatively low, indicating potential to strengthen market
 
 💡 Business Recommendations
 
--Focus on customer segments that show higher conversion rates, especially based on age and financial  status.
--Adjust campaign timing to align with months that historically perform better.    
--Customize marketing approaches for different job categories to improve relevance and response.
--Develop targeted engagement strategies to better connect with customers who have low account balances.
+The marketing strategy should begin by focusing on customer segments that demonstrate higher conversion rates, particularly when considering factors such as age and financial status. Campaign timing should also be adjusted to align with months that have historically shown stronger performance, in order to maximize effectiveness. In addition, marketing approaches should be customized for different job categories to improve relevance and increase customer engagement. Finally, targeted engagement strategies should be developed to better connect with customers who have low account balances, helping to improve their response rates and overall conversions.
 
 
 🛠 Tools Used
