@@ -53,9 +53,7 @@ These allow users to dynamically explore customer segments.
 💡 Business Recommendations
 
 -Focus on customer segments that show higher conversion rates, especially based on age and financial  status.
-
 -Adjust campaign timing to align with months that historically perform better.
-
 -Customize marketing approaches for different job categories to improve relevance and response.
 -Develop targeted engagement strategies to better connect with customers who have low account balances.
 
