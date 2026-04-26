@@ -43,17 +43,10 @@ These allow users to dynamically explore customer segments.
 
  Key Insights
  
-Recognize the low subscription rate
-Subscription levels are relatively low, indicating an opportunity to improve marketing effectiveness and customer acquisition strategies.
-Consider customer financial profiles
-Most customers have low account balances, so targeting and messaging should be designed with limited financial engagement in mind.
-Focus on high-performing age group
-Middle-aged customers are more likely to subscribe, so prioritize this group in campaigns and outreach efforts.
-Address inconsistent campaign performance
-Campaign results vary widely from month to month, suggesting a need to standardize, test, and optimize marketing strategies for stability.
-Deprioritize job category size as a predictor
-The number of people in a job category does not strongly influence subscription outcomes, so occupation alone should not drive targeting decisions.
-
+-Subscription rates are relatively low, which suggests there is room to improve marketing efforts. -Most customers have low account balances, which affects how we should target them. 
+-Middle-aged customers are more likely to subscribe compared to other age groups. 
+-Campaign results change a lot from month to month, showing inconsistent performance. 
+-Having many people in a job category does not necessarily lead to more subscriptions or conversions.
 
 💡 Business Recommendations
 
