@@ -1,6 +1,7 @@
 # FUTURE_DS_03
 This project analyzes bank marketing campaign data to uncover insights that can improve customer subscription rates.  The dashboard transforms raw data into actionable insights that a business stakeholder (e.g., marketing manager or bank executive) can use to make informed decisions.
 
+
 🎯 Business Objective
 
 To identify:
@@ -9,6 +10,7 @@ To identify:
 - What factors influence subscription rates
 - How marketing campaigns can be optimized
 
+
 📊 Key Metrics (KPIs)
 
 - Total Clients: 4521
@@ -16,6 +18,7 @@ To identify:
 - Non-Subscribed Clients: 4000
 - Subscription Rate: 11.5%
 - Average Balance Category: Medium
+
 
 📈 Dashboard Features
 
@@ -28,6 +31,7 @@ To identify:
 
 These allow users to dynamically explore customer segments.
 
+
 2. Visualizations
 
 - Subscription Rate (Pie Chart): Shows proportion of subscribed vs non-subscribed clients
@@ -36,12 +40,14 @@ These allow users to dynamically explore customer segments.
 - Job Analysis: Highlights which professions dominate and their behavior
 - Balance Category Distribution: Shows financial segmentation of clients
 
+
  Key Insights
 -Subscription rates are relatively low, which suggests there is room to improve marketing efforts.
 -Most customers have low account balances, which affects how we should target them.
 -Middle-aged customers are more likely to subscribe compared to other age groups.
 -Campaign results change a lot from month to month, showing inconsistent performance.
 -Having many people in a job category does not necessarily lead to more subscriptions or conversions.
+
 
 💡 Business Recommendations
 
@@ -50,6 +56,7 @@ These allow users to dynamically explore customer segments.
 -Customize marketing approaches for different job categories to improve relevance and response.
 -Develop targeted engagement strategies to better connect with customers who have low account balances.
 
+
 🛠 Tools Used
 
 - Microsoft Excel
@@ -57,6 +64,7 @@ These allow users to dynamically explore customer segments.
   - Pivot Charts
   - Slicers
   - KPI Cards
+
   
  Dataset Notes
 
