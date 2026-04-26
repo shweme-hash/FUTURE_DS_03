@@ -43,11 +43,7 @@ These allow users to dynamically explore customer segments.
 
  Key Insights
  
--Subscription rates are relatively low, which suggests there is room to improve marketing efforts. 
--Most customers have low account balances, which affects how we should target them. 
--Middle-aged customers are more likely to subscribe compared to other age groups. 
--Campaign results change a lot from month to month, showing inconsistent performance. 
--Having many people in a job category does not necessarily lead to more subscriptions or conversions.
+Subscription rates are relatively low, indicating potential to strengthen marketing efforts and improve overall uptake. Most customers maintain low account balances, which should be considered when designing targeting strategies and product positioning. Middle-aged customers show a higher likelihood of subscribing compared to other age groups, making them a key segment for focused campaigns. Campaign performance varies significantly from month to month, suggesting inconsistent effectiveness and a need for more stable, optimized strategies. Finally, the size of a job category does not appear to directly influence subscription or conversion rates, meaning occupation volume alone is not a strong predictor of customer response.
 
 💡 Business Recommendations
 
