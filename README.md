@@ -43,7 +43,8 @@ These allow users to dynamically explore customer segments.
 
  Key Insights
  
--Subscription rates are relatively low, which suggests there is room to improve marketing efforts. -Most customers have low account balances, which affects how we should target them. 
+-Subscription rates are relatively low, which suggests there is room to improve marketing efforts. 
+-Most customers have low account balances, which affects how we should target them. 
 -Middle-aged customers are more likely to subscribe compared to other age groups. 
 -Campaign results change a lot from month to month, showing inconsistent performance. 
 -Having many people in a job category does not necessarily lead to more subscriptions or conversions.
